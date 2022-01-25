@@ -1,0 +1,23 @@
+.Homepage {
+    margin: 0px 30px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    text-align: left;
+    font-size: 3rem;
+    font-weight: 200;
+    margin-top: 10px ;
+    margin-bottom: 0px ;
+}
+
+p {
+    text-align: left;
+    font-weight: 100;
+    margin-top: 10px ;
+    margin-bottom: 80px ;
+}
